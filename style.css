@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 32px;
+  color: #f2f2f2;
+  background-color: #080208;
+  background-image: url("img/hero-bg.jpg");
+  background-repeat: no-repeat;
+}
+
+.page-header {
+  margin: 0 0 180px;
+  padding: 32px 0 32px;
+  max-width: 98%;
+  text-align: right;
+}
+
+.page-header a {
+  margin-left: 56px;
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.my-image {
+  margin-bottom: 350px;
+}
+
+.my-image h1{
+  margin: 0 0 24px;
+  font-size: 80px;
+  line-height: 96px;
+}
+
+.my-image p {
+  margin: 0;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.intro h2 {
+  margin: 0 0 56px;
+  font-size: 56px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.intro figure {
+  margin: 0 0 32px;
+  text-align: center;
+}
+
+.intro p {
+  margin: 0 0 22px;
+}
+
+.vanya {
+  margin: 0 0 60px;
+}
+
+.vanya h2{
+  margin: 0 0 56px;
+  font-size: 56px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.project-image {
+  margin: 0 0 24px;
+  text-align: center;
+}
+
+.projects p {
+  margin: 0 0 24px;
+}
+
+.button {
+  padding: 12px 100px;
+  margin: 0px 35% ;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #712073;
+  color: cyan;
+}
+
+.page-footer {
+  text-align: left;
+
+  padding: 30px;
+  background-color: #260c26;
+}
+
+.page-footer a {
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+}
+
+.footer-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email.svg");
+}
+
+.footer-phone {
+  margin-left: 71% ;
+  padding-left: 30px;
+  padding-top: 2px;
+  background-image: url("img/icon-phone.svg");
+}
